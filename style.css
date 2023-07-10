@@ -156,8 +156,6 @@ span {
 
     .container {
         flex-direction: row;
-        /* height: fit-content; */
-        /* align-items: flex-end; */
     }
 
     .content {
